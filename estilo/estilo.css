@@ -1,0 +1,58 @@
+body {
+    font-size: 120%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(48, 48, 48);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    zoom:1;
+}
+h1{
+    color: green;
+    background-color: rgb(48, 48, 48);
+    border-radius: 5px;
+}
+.area{
+    background-color: rgba(0, 0, 0, 0.438);
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 1200px;
+    border-radius: 10px;
+    height: 700px;
+}
+table{
+    position: relative;
+    margin-left: 5%; 
+    margin-top: 20px; 
+    width: 90%;
+    word-spacing: 1px;
+
+}
+input , .botao{
+    border-radius: 10px;
+    border: 0;
+    font-size: 100%;
+    margin-top: 5px;
+}
+input:hover{
+    background-color: grey;
+}
+
+.botao:hover{
+    background-color: rgb(77, 74, 74);
+}
+.botao{
+    color: white;
+    width: 90px;
+    height: 25px;
+    background-color: rgba(214, 214, 214, 0.589);
+}
+td:hover{
+    color: green;
+}
+#referencia{
+    position: relative;
+
+}
+.formulario{
+    position: relative;
+}
